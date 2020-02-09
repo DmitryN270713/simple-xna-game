@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortDefenders", "FortDefenders\FortDefenders\FortDefenders.csproj", "{B9EC3C03-241F-4618-8A2C-399834CCD5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortDefendersContent", "FortDefenders\FortDefendersContent\FortDefendersContent.contentproj", "{1D0F3BB3-483A-4CB0-9B10-44FC1E40F80E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9EC3C03-241F-4618-8A2C-399834CCD5C8}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{B9EC3C03-241F-4618-8A2C-399834CCD5C8}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{B9EC3C03-241F-4618-8A2C-399834CCD5C8}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{B9EC3C03-241F-4618-8A2C-399834CCD5C8}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{B9EC3C03-241F-4618-8A2C-399834CCD5C8}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{B9EC3C03-241F-4618-8A2C-399834CCD5C8}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{1D0F3BB3-483A-4CB0-9B10-44FC1E40F80E}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{1D0F3BB3-483A-4CB0-9B10-44FC1E40F80E}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

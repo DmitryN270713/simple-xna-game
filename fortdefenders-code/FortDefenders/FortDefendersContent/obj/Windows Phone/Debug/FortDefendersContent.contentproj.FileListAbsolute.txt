@@ -1,0 +1,6 @@
+E:\Mobiili_projekti\FortDefenders\FortDefenders\FortDefendersContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\t9nidm00.AK\Desktop\Mobiili_projekti\FortDefenders\FortDefenders\FortDefendersContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Opiskelu\Mobiili_projekti\FortDefenders\FortDefenders\FortDefendersContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Opiskelu\Mobiili_projekti\FortDefendersGit\fortdefenders-code\FortDefenders\FortDefenders\FortDefendersContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\t1saes00\Desktop\Mobiili_projekti\FortDefenders\FortDefenders\FortDefendersContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\t1saes00\Downloads\fortdefenders-code-70d13f083123508c58bdae624869d11e856487af\fortdefenders-code\FortDefenders\FortDefendersContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
